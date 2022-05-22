@@ -1,0 +1,4 @@
+baseURL = 'http://itzsowvik.github.io/'
+languageCode = 'en-us'
+title = "Sowvik's Blog"
+theme = "beautifulhugo"
